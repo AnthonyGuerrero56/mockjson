@@ -1,0 +1,13 @@
+{
+  [
+    { "id": 1, "cant": 500, "description": "Hojas bond A4" },
+    { "id": 2, "cant": 4, "description": "Plumones de pizarra recargables (rojo, negro, verde y azul)" },
+    { "id": 3, "cant": 2, "description": "Plumones gruesos de papel (rojo y negro)" },
+    { "id": 5, "cant": 1, "description": "Silicona líquida de 250ml" },
+    { "id": 6, "cant": 1, "description": "Cinta de embalaje, no delgado" },
+    { "id": 7, "cant": 3, "description": "Papelógrafos cuadriculados y 3 blancos" },
+    { "id": 8, "cant": 2, "description": "Pliego de cartulina - diversos colores" },
+    { "id": 9, "cant": 1, "description": "Pliego de papel crepe - diversos colores" },
+    { "id": 10, "cant": 1, "description": "Pliegos de papel lustre (rojo y diversos colores" },
+  ]
+}
