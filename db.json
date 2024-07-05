@@ -11,7 +11,7 @@
     { "id": 10, "cant": 1, "description": "Pliegos de papel lustre (rojo y diversos colores)" }
   ],
   "students": [
-    { "id": 1, "nombre": "Anthony Guerrero Castillo", "completedDeliveries": false},
-    { "id": 2, "nombre": "Hector Enrique Grandy Angulo", "completedDeliveries": false}
+    { "id": 1, "name": "Anthony Guerrero Castillo", "completedDeliveries": false},
+    { "id": 2, "name": "Hector Enrique Grandy Angulo", "completedDeliveries": false}
   ]
 }
