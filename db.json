@@ -13,6 +13,5 @@
   "students": [
     { "id": 1, "nombre": "Anthony Guerrero Castillo", "completedDeliveries": false},
     { "id": 2, "nombre": "Hector Enrique Grandy Angulo", "completedDeliveries": false}
-  ],
-  "deliveries": []
+  ]
 }
